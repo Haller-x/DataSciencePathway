@@ -1,6 +1,3 @@
-# LinkedData
-- Scripts from my youtube channel https://www.youtube.com/channel/UC-qIIsX6johB-GIjBb45lLA?view_as=subscriber
-
 # Data Science pathway:
 * Título em inglês indica tutorial em inglês.
 * Title in portuguese indicates material in portuguese
