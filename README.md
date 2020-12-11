@@ -39,6 +39,9 @@
 ## Introdução Deep Learning:
   - [Intro to Deep Learnign](https://www.kaggle.com/learn/intro-to-deep-learning)
 
+## Deep Learning:
+  - [Tutorials TensorFlow](https://github.com/Hvass-Labs/TensorFlow-Tutorials)
+
 ## SQL:
   - [Intro SQL](https://www.kaggle.com/learn/intro-to-sql)
   - [Advanced SQL](https://www.kaggle.com/learn/advanced-sql)
